@@ -1,0 +1,6 @@
+node_modules
+.env
+uploads
+uploads-test
+dist
+.DS_Store

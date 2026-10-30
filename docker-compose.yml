@@ -1,0 +1,14 @@
+# Local MongoDB for development:  docker compose up -d
+# (Or use a free MongoDB Atlas cluster and paste its connection string into server/.env.)
+services:
+  mongo:
+    image: mongo:7
+    container_name: documind-mongo
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:27017:27017" # only reachable from your own machine
+    volumes:
+      - documind-data:/data/db
+
+volumes:
+  documind-data:

@@ -1,0 +1,22 @@
+Remote Work Policy - Northwind Labs
+
+1. Purpose
+This policy explains when employees may work remotely. The goal is to give teams flexibility while keeping collaboration strong.
+
+2. Eligibility
+Employees who have completed their 90-day probation period may request remote work. Interns are not eligible for remote work during their first month.
+
+3. Schedule
+Employees must be in the office on Tuesdays and Thursdays. Remote work is allowed on the other days with manager approval. Requests must be submitted at least 48 hours in advance.
+
+4. Equipment
+The company provides a laptop and a monitor. Employees are responsible for their own internet connection. A monthly stipend of 40 dollars is paid for internet costs.
+
+5. Security
+Company data must only be accessed over the company VPN. Public Wi-Fi may not be used without the VPN. Lost devices must be reported to IT within 24 hours.
+
+6. Deadlines
+The annual policy acknowledgement form is due on 30 April. Employees who miss the deadline lose remote work privileges until the form is submitted.
+
+7. Limitations
+This policy does not apply to warehouse staff. It may be suspended during product launches at the discretion of the department head.
